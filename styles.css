@@ -1,0 +1,17 @@
+.start {
+    
+    font-family: 'Century Gothic', 'CenturyGothic', 'AppleGothic', 'sans-serif';
+    position: absolute;
+    left: 350px;
+    top: 400px;
+    width: 120px;
+    height: 50px;
+    font-size: 25px;
+    background-color: black;
+    color: #FFE81F;
+    border-radius: 5px;
+    border-width: 5px;
+    border: double #FFE81F ;
+    z-index: 2000;
+    cursor: pointer;
+}
