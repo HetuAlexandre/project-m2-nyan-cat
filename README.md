@@ -2,7 +2,56 @@
 
 <p align="center"><img src="./images/screenshot.png"></p>
 
-# Introduction
+# Story
+
+The game is inspire by a scene of Star Wars -The Empire Strike Back, where Han Solo try to escape the Empire with is Millennium Falcon threw asteroids.
+
+# Change made
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+## Design
+1.The website title
+2.The Width of the game
+3.The player avatar (millenium falcon)
+4.The enemies avatar (asteroids)
+5.The Background of the game (animated star gif)
+
+## Game
+1.Collision work
+2.Start button with delay
+3.Reposition the player to the middle of the game
+4.Number of enemies
+5.Adding Bonus rebel logo + adding score when touching the player
+6.Stoping the game when touching asteroid
+7.When touching asteroid message apear
+8.When touching asteroid reset button apear and reset score
+9.Score going up as time advance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Introduction
 
 This project was designed as a way for you to practice and learn about Object Oriented Programming. A good bit of code has already been provided for you, and it makes for an _almost_ working game.
 
@@ -83,4 +132,4 @@ Your project is due on XX XXX, XXXX by XX:XX.
 
 ## Useful Links
 
-- https://javascript.info/keyboard-events
+- https://javascript.info/keyboard-events -->
