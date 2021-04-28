@@ -1,58 +1,38 @@
 # Object Oriented Programming Game Project
 
+## Introduction
+
+This is my first JavaScript project for the Concordia Full Stack web development bootcamp.
+In the project only JavaScript was use.
+
 <p align="center"><img src="./images/gameScreenshot.png"></p>
 
 https://alexandrehetu-project-game.netlify.app
-
 
 # Story
 
 The game is inspire by a scene of Star Wars -The Empire Strike Back, where Han Solo try to escape the Empire with is Millennium Falcon threw asteroids.
 
-# Change made
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-## Design
-1.The website title
-2.The Width of the game
-3.The player avatar (millenium falcon)
-4.The enemies avatar (asteroids)
-5.The Background of the game (animated star gif)
+## Design and features
+
+- The website title
+- The Width of the game
+- The player avatar (Millennium Falcon)
+- The enemies avatar (asteroids)
+- The Rebel logo as bonus
+- The Background of the game (animated star gif)
 
 ## Game
-1.Collision work
-2.Start button with delay
-3.Reposition the player to the middle of the game
-4.Number of enemies
-5.Adding Bonus rebel logo + adding score when touching the player
-6.Stoping the game when touching asteroid
-7.When touching asteroid message apear
-8.When touching asteroid reset button apear and reset score
-9.Score going up as time advance
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Collision work
+- Start button with delay
+- Reposition the player to the middle of the game
+- Number of enemies
+- Adding Bonus rebel logo + adding score when touching the player
+- Stopping the game when touching asteroid
+- When touching asteroid message appear
+- When touching asteroid reset button appear and reset score
+- Score going up as time advance
 
 <!-- # Introduction
 
