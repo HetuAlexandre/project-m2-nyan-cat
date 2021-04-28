@@ -3,10 +3,15 @@
 ## Introduction
 
 This is my first JavaScript project for the Concordia Full Stack web development bootcamp.
-In the project only JavaScript was use.
-Use the left and right keyboard arrows to dodge the incoming asteroids.
+In this project only JavaScript was use.
+
+### How to play
+
+Use the left and right keyboard arrows to dodge the incoming asteroids. Try to survive and escape the ties fighter chasing you. Rebel logo will give you bonus score.
 
 <p align="center"><img src="./images/gameScreenshot.png"></p>
+
+## Netlify link
 
 https://alexandrehetu-project-game.netlify.app
 
