@@ -4,6 +4,7 @@
 
 This is my first JavaScript project for the Concordia Full Stack web development bootcamp.
 In the project only JavaScript was use.
+Use the left and right keyboard arrows to dodge the incoming asteroids.
 
 <p align="center"><img src="./images/gameScreenshot.png"></p>
 
